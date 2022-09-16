@@ -7,6 +7,6 @@ How to test it:
 
 
 
-Tab1 = Normal
-Tab2 = Explaining how to create Widgets from a List
-Tab3 = Server Driven UI
+- Tab1 = Normal
+- Tab2 = Explaining how to create Widgets from a List
+- Tab3 = Server Driven UI
